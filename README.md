@@ -1,4 +1,7 @@
 ```
-npm i
-npm start
+npm i -g idle-blocker
+```
+
+```
+npx idle-blocker
 ```
